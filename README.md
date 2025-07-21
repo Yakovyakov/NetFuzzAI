@@ -132,3 +132,8 @@ After analyzing the impact of vulnerabilities like Dirty Pipe (CVE-2022-0847), I
 * Dataset from Linux Kernel Mailing List Archives
 
 * Kernel Memory Sanitizer for reference patterns
+
+## License
+
+GNU General Public License v3.0  
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
